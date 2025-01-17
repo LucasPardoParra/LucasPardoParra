@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+It's me, Lucas! Here's some infor about myself:
+
+- 🔭 I’m currently working on some personal projects I'll be uploading soon.
+- 🌱 I’m currently learning WebApp Development at Universidad Europea, in Madrid
+- 📫 How to reach me: please don't xD 
+- 😄 Pronouns: (what?)
+- ⚡ Fun fact: any non-fun fact is a fun fact itself just because it isn't. Pretty good, huh?
+
+
 <!--
 **Pardoluki/Pardoluki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
