@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-It's me, Lucas! Here's some infor about myself:
+It's me, Lucas! Here's some info about myself:
 
 - 🔭 I’m currently working on some personal projects I'll be uploading soon.
 - 🌱 I’m currently learning WebApp Development at Universidad Europea, in Madrid
