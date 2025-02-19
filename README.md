@@ -1,12 +1,12 @@
-## Hi there 👋
+## ¡Epa! 👋
 
-It's me, Lucas! Here's some info about myself:
+¡Soy yo, Lucas! ¡Ya sabes, mundialmente famoso (espero)! Aquí tienes algo de información sobre mí:
 
-- 🔭 I’m currently working on some personal projects I'll be uploading soon.
-- 🌱 I’m currently learning WebApp Development at Universidad Europea, in Madrid
-- 📫 How to reach me: please don't xD 
-- 😄 Pronouns: (what?)
-- ⚡ Fun fact: any non-fun fact is a fun fact itself just because it isn't. Pretty good, huh?
+🌱 Estoy estudiando Desarrollo de Aplicaciones Web en la Universidad Europea, en Madrid.
+🔭 Actualmente estoy trabajando en un proyecto de programación (da igual cuando leas esto, siempre será verdad).
+📫 Cómo contactarme: mejor no xD
+😄 Pronombres: (¿el qué?)
+⚡ Dato curioso: cualquier dato que no sea curioso es curioso solo por el hecho de no serlo. Curioso, ¿no? (no hace falta que contestes)
 
 
 <!--
