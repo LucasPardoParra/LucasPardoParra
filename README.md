@@ -1,6 +1,6 @@
 ## ¡Hola! 👋
 
-Soy Lucas Pardo, programador en ciernes 😀. Aquí tienes algo de información sobre mí:
+Soy Lucas Pardo Parra, programador en ciernes 😀. Aquí tienes algo de información sobre mí:
 
 - 🌱 Estoy estudiando Desarrollo de Aplicaciones Web en la Universidad Europea, en Madrid.
 - 🔭 Me gusta explorar e investigar sobre C#, Python y JavaScript; aunque también manejo algo de Java, diseño web con HTML y CSS...
